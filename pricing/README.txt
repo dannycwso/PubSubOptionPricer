@@ -1,5 +1,5 @@
 
-Project: Implement a publisher to simulate stock price random-walking in GBM. The stock ticks are consummed by a subscriber which re-price options using BS-model if exist and then whole portfolio value.
+Project: Implement a publisher to simulate stock price random-walking in GBM. The simulator produces price tick randomly within a configured time range and stock is also randomly picked from the list to produce tick. The stock ticks are consummed by a subscriber which re-price options using BS-model if exist and then whole portfolio value.
 
 Implementation Highlights:
 - The project provides 2 implementations. 1st approach is to use Aeron IPC as communication channel between publisher and subscriber which is the recommended approach of this assignment

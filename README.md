@@ -1,2 +1,0 @@
-# OptionPricer
-For Fun Only

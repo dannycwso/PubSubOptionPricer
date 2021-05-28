@@ -18,6 +18,6 @@ Build:
 - aeron, agrona, disruptor, apache common csv and maths, junit, Logback, sqlite-jdbc. They all can be found in pom.xml
 
 TODO:
-- Enjoy the codes and feel free to provide feedback. Let's see what can be further improved per discussion. 
+- Enjoy the codes and feel free to provide feedback. Let's see what can be further improved
 
 
